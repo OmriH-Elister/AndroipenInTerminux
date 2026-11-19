@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Adds an Open in terminal button after you long-press one folder in Samsung My Files. It reads the folder path from My Files and opens Termux there.</string>
+</resources>

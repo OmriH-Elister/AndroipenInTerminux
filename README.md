@@ -1,4 +1,4 @@
-# Open in Terminal
+# AndroipenInTerminux
 
 An Android helper that adds an **Open in terminal** action when one folder is selected in Samsung My Files. It reads the selected folder path through a narrowly scoped accessibility workflow and opens a Termux session in that directory.
 
